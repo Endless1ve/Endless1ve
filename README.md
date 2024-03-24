@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=endless1ve)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **Endless1ve/Endless1ve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
